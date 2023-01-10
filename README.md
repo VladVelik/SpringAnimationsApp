@@ -1,2 +1,2 @@
 # SpringAnimationsApp
-App with demonstrating animations
+App with animations demonstrating
